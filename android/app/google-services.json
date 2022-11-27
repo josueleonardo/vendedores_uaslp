@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "882169408481",
+    "project_id": "fundamentos-movil",
+    "storage_bucket": "fundamentos-movil.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882169408481:android:5dc6d0206f020c100400a0",
+        "android_client_info": {
+          "package_name": "com.example.vendedores"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882169408481-srift6h3b9hi33ft59av3bq6fhvjf888.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6qbmusnEM3bmrfI6m2MrHv17OlouI5Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882169408481-srift6h3b9hi33ft59av3bq6fhvjf888.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "882169408481-7itdk2qp1lc13irqmd8ccmtgaj7fkc21.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.vendedores"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
