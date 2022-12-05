@@ -3,7 +3,8 @@ import 'dart:io';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutterfire_ui/auth.dart';
 import 'package:flutter/material.dart';
-import 'package:vendedores/blank.dart';
+import 'package:vendedores/screens/Screen1.dart';
+import 'package:vendedores/screens/blank.dart';
 
 import 'dart:io' show Platform;
 
@@ -46,7 +47,7 @@ class _LoginScreenState extends State<LoginScreen> {
                     "882169408481-srift6h3b9hi33ft59av3bq6fhvjf888.apps.googleusercontent.com"),
               ]);
         }
-        return const Blank();
+        return const Screen1();
       },
     );
   }

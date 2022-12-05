@@ -5,7 +5,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
-import 'package:vendedores/screen_0.dart';
+import 'package:vendedores/screens/screen_0.dart';
 
 import 'firebase_options.dart';
 
